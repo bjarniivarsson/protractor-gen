@@ -22,6 +22,10 @@ The generator generates a printable PDF file, and only requires 3 values specifi
 - Download the .zip (click the green "Code" button above to get a dowload link).
 - Unzip into a local folder.
 - Open a command prompt and `cd` into the folder (e.g. `cd c:\myfolder`).
+- Install dependencies:
+```
+npm install
+```
 - Run the generator:
 
 ```
